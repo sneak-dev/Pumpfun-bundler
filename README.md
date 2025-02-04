@@ -64,4 +64,4 @@ Start the bundling process and let the tool handle everything automatically.
 Sit back and enjoy the profits from your Pump.Fun launches!
 
 ## Contact Info
-X: [mikegraham915](https://x.com/@mikegraham915)
+telegram: @@hudesdev
