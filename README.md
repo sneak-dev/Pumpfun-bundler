@@ -7,6 +7,10 @@ This free, open-source solution provides an efficient self-bundling script for P
 
 Achieve launches that are fully bubble map-proof and resistant to Photon SB marks.
 
+## Example
+
+Buy bundle: https://explorer.jito.wtf/bundle/4f1f4d21b0f5e3d5ca3311abeec64c35931f9170a843d267dafbafa7783d5f69
+
 ## Features
 ### Intuitive User Interface
 💊 Effortless Navigation: Enjoy a user-friendly, fully automated interface designed to maximize efficiency and ease of use.
@@ -27,41 +31,5 @@ Achieve launches that are fully bubble map-proof and resistant to Photon SB mark
 ### Additional Features
 Unlock even more tools and functionalities designed to streamline your launches and maximize your profits on Pump.Fun.
 
-## Installation
-To begin using the Pump.Fun Launch Bundle Tool, follow these steps:
-
-### 1. Clone the Repository:
-```
-git clone https://github.com/ProofOfMike/pumpfun-bundler.git
-```
-### 2. Navigate to the Project Directory:
-```
-cd pumpfun-bundler
-```
-### 3. Install Dependencies:
-```
-npm install 
-```
-### 4. Set Up Environment Variables:
-Create a `.env` file in the project directory and configure the following:
-```
-SOLANA_RPC_URL=https://api.mainnet-beta.solana.com  
-PRIVATE_KEY=<your-private-key-bs58>
-```
-### 5. Launch the Application:
-```
-npm start
-```
-
-## Usage
-### Customize Buyers and Settings:
-Use the intuitive UI to set up your buyers and configure launch parameters.
-
-### Initiate the Bundling Process:
-Start the bundling process and let the tool handle everything automatically.
-
-### Achieve Success:
-Sit back and enjoy the profits from your Pump.Fun launches!
-
 ## Contact Info
-telegram: https://t.me/m4rcu5sol
+[Telegram](https://t.me/m4rcu5sol)
